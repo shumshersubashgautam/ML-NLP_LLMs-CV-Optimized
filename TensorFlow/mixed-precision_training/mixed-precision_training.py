@@ -1,4 +1,4 @@
-# Youtube Link => https://youtu.be/Kvy65eGF2Bs
+
 
 import tensorflow as tf
 from tensorflow import keras

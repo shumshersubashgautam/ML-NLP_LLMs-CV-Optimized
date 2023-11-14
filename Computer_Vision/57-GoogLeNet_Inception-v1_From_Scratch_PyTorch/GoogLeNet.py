@@ -280,6 +280,4 @@ It would give me `torch.Size([2, 128, 4, 4])` - And so, as per the above rule, f
 
 So what I am doing is that, converting or flattening the last conv layer output of [2, 128, 4, 4] shape, which is a 4-D Tensor - to a 2-D Tensor of size
 
-[2, 128 * 4 * 4] tensor. And so the `in_features` of the immediately following linear layer should  be set to [128 * 4 * 4 ] i.e. 2048.
-
-Checkout my video specifically discussing this concept - https://www.youtube.com/watch?v=qQ6xbv5kPxE '''
+[2, 128 * 4 * 4] tensor. And so the `in_features` of the immediately following linear layer should  be set to [128 * 4 * 4 ] i.e. 2048.'''

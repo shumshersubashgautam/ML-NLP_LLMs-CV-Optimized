@@ -1,8 +1,5 @@
-<h1 style="font-size:250%; font-family:cursive; color:#ff6666;"><b>Python Image Processing - Grayscale Conversion and Brightness Increase from Scratch Python</b><a id="0"></a></h1>
+Python Image Processing - Grayscale Conversion and Brightness Increase from Scratch Python
 
-<a href="https://youtu.be/I8kwtcVSEDk"><h1 style="font-size:250%; font-family:cursive; color:#ff6666;"><b>Link to my YouTube Video</b></h1></a>
-
-[![IMAGE ALT TEXT](https://imgur.com/MTAO3gS.png)](https://youtu.be/I8kwtcVSEDk "Python Image Processing - Grayscale Conversion and Brightness Increase from Scratch Python")
 
 ## First the Fundamental of an Image Structure in Computer
 
